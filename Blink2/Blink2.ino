@@ -6,6 +6,8 @@
   (but actually, we'll soon be putting most of this out there under the Apache Software Licene)
  */
 
+#include <USBAPI.h>
+
 // Pin 13 has an LED connected on most Arduino boards.
 // give it a name:
 int led = 13;

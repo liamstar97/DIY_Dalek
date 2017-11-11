@@ -3,3 +3,5 @@
 
 # ignores cmake-build-debug
 cmake-build-debug/
+
+*/build-uno/
